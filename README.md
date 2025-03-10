@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -25,6 +26,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
@@ -33,5 +35,6 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
