@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
