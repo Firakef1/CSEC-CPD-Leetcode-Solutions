@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0898-transpose-matrix) |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
