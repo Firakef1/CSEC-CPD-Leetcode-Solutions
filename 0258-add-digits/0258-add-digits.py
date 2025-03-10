@@ -5,17 +5,16 @@ class Solution(object):
         :rtype: int
         """
 
-        if len(str(num)) == 1:
+    
 
-            return num
+        
+        while len(str(num)) > 1:
+            temp = 0
+            for i in str(num):
 
-        temp = 0
+                temp += int(i)
 
-        for i in str(num):
+            num = temp
 
-            temp += int(i)
-
-        num = temp
-
-        return self.addDigits( num)
+        return num
         
