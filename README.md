@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0661-image-smoother) |
@@ -62,5 +63,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
