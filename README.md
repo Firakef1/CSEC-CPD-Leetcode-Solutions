@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
@@ -12,6 +13,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
