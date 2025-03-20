@@ -12,6 +12,7 @@
 | [0861-flipping-an-image](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2551-apply-operations-to-an-array](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -43,11 +44,13 @@
 | [0861-flipping-an-image](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2551-apply-operations-to-an-array](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
+| [2551-apply-operations-to-an-array](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
