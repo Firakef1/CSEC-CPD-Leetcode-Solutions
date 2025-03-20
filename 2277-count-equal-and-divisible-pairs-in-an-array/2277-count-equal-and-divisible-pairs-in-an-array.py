@@ -9,7 +9,6 @@ class Solution(object):
  
         length = len(nums)
         counter = 0
-        print(nums)
         # for i in range(length):
 
         #     for j in range(i+1, length):
@@ -44,7 +43,7 @@ class Solution(object):
                         if (store_dict[i][j]*store_dict[i][z])%k == 0:
 
                             counter +=1
-                            print(j, z)
+
   
 
         return counter 
