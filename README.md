@@ -11,6 +11,7 @@
 | [0661-image-smoother](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0898-transpose-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2551-apply-operations-to-an-array](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0164-maximum-gap) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -81,4 +83,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Hash Table
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
