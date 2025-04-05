@@ -5,14 +5,14 @@ class Solution(object):
         :rtype: None Do not return anything, modify nums in-place instead.
         """
 
-        i= 0
+        place_holder= 0
 
-        for j in range(len(nums)):
+        for seaker in range(len(nums)):
 
-            if nums[j] != 0:
+            if nums[seaker] != 0:
 
-                nums[i], nums[j] = nums[j], nums[i]
-                i+=1
+                nums[place_holder], nums[seaker] = nums[seaker], nums[place_holder]
+                place_holder+=1
 
 
 
