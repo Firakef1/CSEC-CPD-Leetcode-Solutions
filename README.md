@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0164-maximum-gap](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [2551-apply-operations-to-an-array](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
