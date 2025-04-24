@@ -1,21 +1,16 @@
 class NumArray(object):
 
-    output  = []
-    
-
     def __init__(self, nums):
         """
         :type nums: List[int]
         """
         self.nums = nums 
-        NumArray.output = [nums[0]]
+        self.output = [nums[0]]
 
         for i in nums[1:]:
 
-            NumArray.output.append(NumArray.output[-1]+i)
+            self.output.append(self.output[-1]+i)
 
-        
-        
 
     def sumRange(self, left, right):
         """
@@ -23,17 +18,14 @@ class NumArray(object):
         :type right: int
         :rtype: int
         """
-        end = 0
-        output = NumArray.output
+
         if left == 0:
 
-            end = output[right]
+            return self.output[right]
 
-        else:
 
-            end = output[right]-output[left-1]
+        return self.output[right]-self.output[left-1]
 
-        return end
 
         
 
