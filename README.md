@@ -9,6 +9,7 @@
 | [0164-maximum-gap](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0661-image-smoother) |
@@ -106,5 +107,10 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
