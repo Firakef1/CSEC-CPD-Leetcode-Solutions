@@ -5,14 +5,12 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        output = []
+        output = [nums[0]]
 
-        curent_sum = 0
+        
+        for i in nums[1:]:
 
-        for i in nums:
-
-            curent_sum += i
-            output.append(curent_sum)
+            output.append(output[-1]+i)
 
         return output
         
