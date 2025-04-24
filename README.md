@@ -15,6 +15,7 @@
 | [0861-flipping-an-image](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-running-sum-of-1d-array](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
