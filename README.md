@@ -31,12 +31,14 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -117,6 +119,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0838-design-linked-list](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0838-design-linked-list) |
 ## Divide and Conquer
