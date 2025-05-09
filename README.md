@@ -117,5 +117,18 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0838-design-linked-list](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0838-design-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
