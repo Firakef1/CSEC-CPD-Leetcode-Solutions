@@ -113,4 +113,9 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0838-design-linked-list](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0838-design-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
