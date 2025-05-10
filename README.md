@@ -58,6 +58,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -123,6 +124,7 @@
 | [0002-add-two-numbers](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0838-design-linked-list](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0838-design-linked-list) |
 ## Divide and Conquer
 |  |
