@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -121,6 +122,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0838-design-linked-list](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0838-design-linked-list) |
 ## Divide and Conquer
 |  |
