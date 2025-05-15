@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0164-maximum-gap](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [1236-n-th-tribonacci-number](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
